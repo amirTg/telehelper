@@ -274,7 +274,7 @@ function create_config( )
       "nerkharz",
       "arabic"
      },
-    sudo_users = {176619893},
+    sudo_users = {132855224},
     admin_users = {},
     disabled_channels = {}
   }
@@ -353,3 +353,4 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+, 
